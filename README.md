@@ -1,2 +1,13 @@
-# ai-tools-for-seo-2026-repo
-AI Tools for SEO 2026 - Rank Higher
+# Ai Tools For Seo 2026 Repo
+
+> AI tools for making money.
+
+Full database at [aitoolsgems.netlify.app](https://aitoolsgems.netlify.app/)
+
+## Tools
+- ChatGPT, Canva, CapCut, Midjourney, Jasper, ElevenLabs
+
+## Get Access
+[aitoolsgems.netlify.app](https://aitoolsgems.netlify.app/)
+
+MIT License
